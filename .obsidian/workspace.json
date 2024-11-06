@@ -50,6 +50,16 @@
             }
           },
           {
+            "id": "3cef59152755ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
             "id": "89d392fb0eae8dce",
             "type": "leaf",
             "state": {
@@ -136,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphRAG/11.4.md",
+                "file": "GraphRAG/GraphRAG讨论记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "11.4 的反向链接列表"
+              "title": "GraphRAG讨论记录 的反向链接列表"
             }
           },
           {
@@ -181,13 +191,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GraphRAG/11.4.md"
+                "file": "GraphRAG/GraphRAG讨论记录.md"
               },
               "icon": "lucide-list",
-              "title": "11.4 的大纲"
+              "title": "GraphRAG讨论记录 的大纲"
+            }
+          },
+          {
+            "id": "d6abb574a6a52103",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,13 +221,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c23d621dac54cbe6",
+  "active": "3cef59152755ee3d",
   "lastOpenFiles": [
-    "GraphRAG/GraphRAG讨论记录.md",
     "GraphRAG/11.4.md",
+    "GraphRAG/GraphRAG讨论记录.md",
     "GraphRAG/未命名",
     "GraphRAG"
   ]
